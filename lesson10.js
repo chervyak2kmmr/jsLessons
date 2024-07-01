@@ -2,7 +2,7 @@
 
 const obj = {
     name: "John",
-    age: 25,
+    age: 2225,
     isMarried: false
 };
 console.log(obj.name);
